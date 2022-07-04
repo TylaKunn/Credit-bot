@@ -1,0 +1,15 @@
+{
+
+“name”: “Social Credit Distributor Admin”,
+
+“version”: “1.0.0”,
+
+“description”: “We aim to fairly promote the fair distribution of entrusted points that enrich our Server. Thus far, we have begun incorporating this communistic approach towards our civilization to further enhance our experiences. Please be careful of what you and do in order to protect your reputation among your peers within this community. 'all is forsaken, but never forgotten'”,
+
+“main”: “bot.js”,
+
+“author”: “Tyler”,
+
+“dependencies”: {}
+
+}
